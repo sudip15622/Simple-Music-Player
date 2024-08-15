@@ -8,15 +8,15 @@ You must create a folder named `songs` in the root directory of your project. In
 /pop  
 - image.jpg
 - data.json
-- music files (.mk4)
+- music files (.mk4)    
 /hiphop  
 - image.jpg
 - data.json
-- music files (.mk4)
+- music files (.mk4)    
 /lok  
 - image.jpg
 - data.json
-- music files (.mk4)
+- music files (.mk4)    
 /folk  
 - image.jpg
 - data.json
